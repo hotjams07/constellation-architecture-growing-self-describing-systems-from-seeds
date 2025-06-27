@@ -5,6 +5,7 @@ A seed, not a framework. Plant it, and let your architecture grow naturally. Whe
 
 # Constellation Architecture: Growing Self-Describing Systems from Seeds
 
+James Frederick Watson, aka, Jimbob, Jimbo, Jamu.....
 *June 2025*
 
 ## Abstract
