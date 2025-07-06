@@ -1,4 +1,4 @@
-What isaManifest?
+What is thr Manifest?
 Amanifestis astructured, self-describing document(usuallya JSONobject orJS module) thatacts astheblueprint orcontract for acomponent, module, orservice inyour system. Itsmuchmorethanalistof functionsor variablesitsalivingspecification thatpowers bothhuman understandingandmachineautomation.
 
 What DoestheManifest Contain?
